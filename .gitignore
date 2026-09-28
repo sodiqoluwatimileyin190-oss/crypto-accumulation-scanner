@@ -1,0 +1,16 @@
+# Secrets - never commit
+config.json
+.env
+
+# Generated data and logs
+*.csv
+news_cache.json
+latest_report.txt
+reports/
+backtest_v2_report_*.txt
+scanner_log.txt
+run_scanner.bat
+
+# Python
+__pycache__/
+*.pyc
