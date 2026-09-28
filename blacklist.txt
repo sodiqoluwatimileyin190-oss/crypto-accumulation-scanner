@@ -1,0 +1,4 @@
+# One coin per line. Lines starting with # are ignored.
+# Add coins with a Binance Monitoring Tag, recent hacks, or delistings.
+RESOLV
+JASMY
